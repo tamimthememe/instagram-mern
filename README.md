@@ -1,9 +1,11 @@
 # Instagram MERN
+This has been Modified by a FAST student
 Full-Stack Instagram Clone using MERN Stack and Socket.IO
 
 [Visit Now](https://instagramweb-mern.vercel.app) 🚀
 
 ## 🖥️ Tech Stack
+
 **Frontend:**
 
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -17,7 +19,7 @@ Full-Stack Instagram Clone using MERN Stack and Socket.IO
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![jwt](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
 
 **Realtime Communication:**
 
@@ -32,13 +34,16 @@ Full-Stack Instagram Clone using MERN Stack and Socket.IO
 **Mail Service:** [Sendgrid](https://sendgrid.com/)
 
 ## 🚀 Features
+
 **Authentication and User Management**
+
 - ✨ Secure Login/Signup Functionality
 - 🚪 Support for Email or Username-based Login
 - 🔐 Seamless Profile and Password Management
 - 🔄 Password Reset via Sendgrid Integration
 
 **Content Management**
+
 - 📜 Dynamic Infinite Scroll for Posts
 - 🔍 Suggestions for User Connections
 - 🔎 Intuitive Search for Users by Name or Username
@@ -49,22 +54,26 @@ Full-Stack Instagram Clone using MERN Stack and Socket.IO
 - 📤 Effortless Post-Sharing Functionality
 
 **Messaging System**
+
 - 🔍 User-Friendly Search for Chat Participants
 - 📝 Seamless Creation of New Chats
 - 💬 Real-Time Messaging Between Users
 - 🕒 Status Indicators for Typing and Online Presence
 
 **Social Features**
+
 - 📊 Comprehensive View of Followers/Following Lists
 - 👍 Post Liked By Users Tracking
 - 😄 Emoji Integration via Emoji Mart
 
 **Image Storage**
+
 - 📷 Branch [dev-v3-cloudinary](https://github.com/jigar-sable/instagram-mern/tree/dev-v3-cloudinary): Utilizes Cloudinary for Image Storage
 - ☁️ Branch [dev-v2-aws](https://github.com/jigar-sable/instagram-mern/tree/dev-v2-aws): Leverages AWS S3 for Image Storage
 - 💾 Branch [dev-v1](https://github.com/jigar-sable/instagram-mern/tree/dev-v1): Relies on Local Storage Solution
 
 ## Sneak Peek of Home Page 🙈 :
+
 ![home](https://user-images.githubusercontent.com/64949957/159116089-cfc2b4c5-dc7d-4d4b-a0c8-668f89ce5412.png)
 
 <table>
